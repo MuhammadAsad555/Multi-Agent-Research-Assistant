@@ -1,0 +1,10 @@
+.main {
+    background-color: #0e1117;
+    color: white;
+}
+
+.stButton>button {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 10px;
+}
