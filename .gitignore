@@ -16,6 +16,9 @@ venv/
 # Streamlit cache
 .streamlit/
 
+# Generated Outputs
+outputs/
+
 # macOS
 .DS_Store
 
