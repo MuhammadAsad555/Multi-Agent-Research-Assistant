@@ -1,0 +1,16 @@
+langchain
+langgraph
+transformers
+accelerate
+sentence-transformers
+faiss-cpu
+arxiv
+streamlit
+python-pptx
+pypdf
+duckduckgo-search
+tqdm
+torch
+numpy
+scikit-learn
+huggingface_hub
